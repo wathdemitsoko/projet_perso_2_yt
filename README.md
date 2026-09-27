@@ -28,6 +28,7 @@ La démarche est la suivante :
 10. produire les prédictions du fichier de test.
 
 ## Données
+Le projet a été organisé dans le cadre d'une compétition privée sur Kaggle. Donc les fichiers csv ne peuvent être fournis.
 
 Le notebook attend deux fichiers CSV placés dans le même dossier :
 
