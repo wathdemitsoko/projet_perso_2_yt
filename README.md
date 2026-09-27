@@ -162,7 +162,7 @@ Une organisation possible est :
 
 ```text
 .
-├── YouTube_classification_version_francaise.ipynb
+├── projet_perso_yt.ipynb
 ├── train_yt.csv
 ├── test_yt.csv
 ├── predictions.csv
