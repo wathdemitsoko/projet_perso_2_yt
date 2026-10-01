@@ -2,9 +2,9 @@
 
 ## Présentation
 
-Ce projet porte sur la **classification binaire de commentaires YouTube**.
+Ce projet porte sur la **classification binaire de commentaires YouTube (spam/pas spam)**.
 
-L'objectif est de prédire la variable `CLASS` à partir du contenu du commentaire et de quelques informations complémentaires comme l'auteur, la vidéo et la date de publication.
+L'objectif est de prédire si la variable `CLASS` à partir du contenu du commentaire et de quelques informations complémentaires comme l'auteur, la vidéo et la date de publication est un spam ou pas. 
 
 Le projet a été réalisé en Python avec principalement **pandas, scikit-learn, NumPy, SciPy et Matplotlib**.
 
