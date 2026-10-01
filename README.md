@@ -156,24 +156,7 @@ jupyter notebook
 
 Ouvrir ensuite le notebook et exécuter les cellules dans l'ordre.
 
-## Organisation du dépôt
 
-Une organisation possible est :
-
-```text
-.
-├── projet_perso_yt.ipynb
-├── train_yt.csv
-├── test_yt.csv
-├── predictions.csv
-└── README.md
-```
-
-## Limites et pistes d'amélioration
-
-Cette version privilégie une pipeline classique et compréhensible. Le notebook initial explorait également des méthodes plus complexes comme BERT, LSTM et l'optimisation avec Optuna. Elles ne sont pas reprises dans cette version principale afin de garder une démarche progressive et plus facile à analyser.
-
-Des pistes d'amélioration seraient notamment de comparer plusieurs modèles classiques, d'étudier plus précisément l'équilibre entre les classes et de comparer cette approche TF-IDF à une représentation plus moderne du langage.
 
 ## Ce que j'ai appris
 
